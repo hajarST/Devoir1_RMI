@@ -21,5 +21,9 @@ Communication RMI: Le projet intègre la technologie RMI pour simplifier les éc
 
 Démonstration:
 
-https://github.com/hajarST/Devoir1_RMI/assets/119755584/180b7064-be5c-4301-a1f7-81ccdbf960a9
+
+
+https://github.com/hajarST/Devoir1_RMI/assets/119755584/6f313974-de85-4ce4-a2d3-c04b7f2b90e2
+
+
 
